@@ -1,0 +1,21 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.psxml;*.psf;*.pss;*.xml">
+  <Version>2.0</Version>
+  <FileID>a23b3db0-4fc5-47ae-97ab-6fe7caac9e55</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders />
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="0" ReferenceFunction="Show-MainForm_psf">MainForm.psf</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-Globals_ps1">Globals.ps1</File>
+    <File Build="0" ReferenceFunction="Show-Edit_ADuser_psf">Edit_ADuser.psf</File>
+    <File Build="0" ReferenceFunction="Show-NTFS_Permissions_psf">NTFS_Permissions.psf</File>
+    <File Build="0" ReferenceFunction="Show-DutySettings_psf">DutySettings.psf</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-Global_ps1">K:\KSS_Toolkit\KSS MultiTool\lib\Global.ps1</File>
+    <File Build="2">K:\kss_team\Apps\Powershell Tools\KSS MultiTool\lib\config.ini</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-TW_ps1">TW.ps1</File>
+    <File Build="0" ReferenceFunction="Show-ContactsSettings_psf">ContactsSettings.psf</File>
+    <File Build="0" ReferenceFunction="Show-FS_DutySettings_psf">FS_DutySettings.psf</File>
+    <File Build="0" ReferenceFunction="Show-SDLunchBuddy_psf">SDLunchBuddy.psf</File>
+    <File Build="0" ReferenceFunction="Show-MassEditGroups4user_psf">MassEditGroups4user.psf</File>
+  </Files>
+</Project>

@@ -1,0 +1,625 @@
+﻿<File version="2.1">
+  <FileID>8e9d58a0-1433-40ca-8052-76408b14e50b</FileID>
+  <Preview>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
+V8/8+wrt6q7b6URFLnUDVqkqZ7ylo7ez67Y5WqNzFmlF5OPaw+bZ/uTLlF7pQiRT4168Stu42+1w
+sG669w49cPuftae37IP1RnS8rddcvXXNyd597dDtBP3L7uuBm2yerdxt9tNDX4yw1rbY2eADhe7+
+NxIA3vTlyhjWy6vnPU+y9amt0NrlP+gfPffz7qvHmRfYdt2nWy86NrCth56iobOS7XbLNOal8733
+4rqeer4ee+R+/fv2S3Sge4y33lt9RibYPEnq7QXANur14SgtTX5HJ+9r07fqpoc+/lolVbla1zpa
+vGBK0ONndfPu665PRtoy3O+21TzefDboumiwwa9x3XKlfHNHYN2cexyiWx+4Q1eccqB3+ZC/3KPc
+aouIyljd/+e9vev2PO4c26Z/6e7rz9YudnmrXY/RgDlpyhj3gv5yWuAtof2OOl0PPvu+Fsz5Slcc
+uov97rrpujvvUq8H79JffxtY9qHn/1sFayzwWr9tZLbeD33V7mdjATBt2rR2X9QRgzWUANjePX96
+/lH/efwZPdH7MT32WGtfVuS8PDWsa1TOzwVARaXWNFggRL2rg236tgecpbGL6lRXskDPX32iFwVd
+uuysP99wr55+7jn1eec7LawMnAlwVFcFPjD403XEzu4mB0BJxSqtLC5QQV62VhQu1IqChSoy61e7
+F8emF2XvQ2VLlJsyRK/882w7ej5A3fYMDPBddtlPJ59xkT4cNUprGkts75mp5y93L/Bb6eqHPwrs
+UR4Zeu++s7zbXNzrQztiLNT4Fy7xLh930e1a4I7k7QkgJevFi9z73lvr/i/cqatCTfzvFdra5jv6
+mkctNWqUP/4JHWiX9znnai2uq1P1vHd00i62Ljv0UN8I91cJteYSTXjlBh195CH6a+9+mjX6US8a
+dj70L0osckfpjjqtnPKiuu9kt93r95qeZ9u6wWnpYAIgX4t/fMb7kODOJ52vjPICjX3yTG+7Trvy
+cVvfpnNtduQ94Y1rvQI/8pLHVNGwQE//3r110kVXvfCJbflqm8eepMVTNC9+hLKWptnyE/XYFYfY
+PLvp9388Vz177KDdDzhF/Ua6txrssW77lwf1NpiujdTd3ffylvvEIPf4tRMAbvD3jurdGYz1AbDb
+Yb/XkDlJdt06Ncx6U0e4D3zufJLG5Sy1x/hd/enYw3X65bdqfpl7S8GxUC9cHAi7m94eapcrNPmV
+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</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="form_Duties" children="Controls">
+    <Property name="AutoScaleDimensions">6, 13</Property>
+    <Property name="AutoScaleMode">Font</Property>
+    <Property name="ClientSize">748, 458</Property>
+    <Property name="FormBorderStyle">FixedToolWindow</Property>
+    <Property name="Name">form_Duties</Property>
+    <Property name="Text">Duty List</Property>
+    <Event name="Load">form_Duties_Load</Event>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupbox_TicketWatch" children="Controls">
+      <Property name="BackColor">Silver</Property>
+      <Property name="Font">Microsoft Sans Serif, 18pt, style=Bold</Property>
+      <Property name="Location">295, 2</Property>
+      <Property name="Name">groupbox_TicketWatch</Property>
+      <Property name="Size">222, 366</Property>
+      <Property name="TabIndex">37</Property>
+      <Property name="TabStop">False</Property>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_TWBackup" children="Controls">
+        <Property name="BackColor">Silver</Property>
+        <Property name="BorderStyle">FixedSingle</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">6, 182</Property>
+        <Property name="Name">richtextbox_TWBackup</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">210, 45</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">$spareroutingbackup</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox17" children="Controls">
+        <Property name="BackColor">Silver</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">6, 142</Property>
+        <Property name="Name">richtextbox17</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">219, 45</Property>
+        <Property name="TabIndex">48</Property>
+        <Property name="Text">Routing backup:</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox15" children="Controls">
+        <Property name="BackColor">Silver</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">6, 255</Property>
+        <Property name="Name">richtextbox15</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">168, 45</Property>
+        <Property name="TabIndex">47</Property>
+        <Property name="Text">App Installs:</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_appinstalls" children="Controls">
+        <Property name="BackColor">Silver</Property>
+        <Property name="BorderStyle">FixedSingle</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">6, 304</Property>
+        <Property name="Name">richtextbox_appinstalls</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">210, 45</Property>
+        <Property name="TabIndex">46</Property>
+        <Property name="Text">$appinstalls</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox12" children="Controls">
+        <Property name="BackColor">Silver</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">6, 21</Property>
+        <Property name="Name">richtextbox12</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">115, 45</Property>
+        <Property name="TabIndex">43</Property>
+        <Property name="Text">Routing:</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_Routing1" children="Controls">
+        <Property name="BackColor">Silver</Property>
+        <Property name="BorderStyle">FixedSingle</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">6, 65</Property>
+        <Property name="Name">richtextbox_Routing1</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">210, 45</Property>
+        <Property name="TabIndex">25</Property>
+        <Property name="Text">$routing1</Property>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupbox_EDS" children="Controls">
+      <Property name="Font">Microsoft Sans Serif, 18pt, style=Bold</Property>
+      <Property name="Location">520, 2</Property>
+      <Property name="Margin">6, 6, 6, 6</Property>
+      <Property name="Name">groupbox_EDS</Property>
+      <Property name="Padding">6, 6, 6, 6</Property>
+      <Property name="Size">225, 272</Property>
+      <Property name="TabIndex">39</Property>
+      <Property name="TabStop">False</Property>
+      <Property name="Text">EDS</Property>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_EDS5" children="Controls">
+        <Property name="BackColor">Control</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">12, 221</Property>
+        <Property name="Margin">6, 6, 6, 6</Property>
+        <Property name="Name">richtextbox_EDS5</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">195, 40</Property>
+        <Property name="TabIndex">4</Property>
+        <Property name="Text">$EDS5</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_EDS4" children="Controls">
+        <Property name="BackColor">Control</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">12, 174</Property>
+        <Property name="Margin">6, 6, 6, 6</Property>
+        <Property name="Name">richtextbox_EDS4</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">195, 40</Property>
+        <Property name="TabIndex">3</Property>
+        <Property name="Text">$EDS4</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_EDS3" children="Controls">
+        <Property name="BackColor">Control</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">10, 122</Property>
+        <Property name="Margin">6, 6, 6, 6</Property>
+        <Property name="Name">richtextbox_EDS3</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">195, 40</Property>
+        <Property name="TabIndex">2</Property>
+        <Property name="Text">$EDS3</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_EDS2" children="Controls">
+        <Property name="BackColor">Control</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">10, 70</Property>
+        <Property name="Margin">6, 6, 6, 6</Property>
+        <Property name="Name">richtextbox_EDS2</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">195, 40</Property>
+        <Property name="TabIndex">1</Property>
+        <Property name="Text">$EDS2</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_EDS1" children="Controls">
+        <Property name="BackColor">Control</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">10, 24</Property>
+        <Property name="Margin">6, 6, 6, 6</Property>
+        <Property name="Name">richtextbox_EDS1</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">195, 40</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">$EDS1</Property>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupbox_AccessChatBackup" children="Controls">
+      <Property name="BackColor">BlanchedAlmond</Property>
+      <Property name="Font">Microsoft Sans Serif, 16pt, style=Bold</Property>
+      <Property name="Location">295, 374</Property>
+      <Property name="Name">groupbox_AccessChatBackup</Property>
+      <Property name="Size">222, 83</Property>
+      <Property name="TabIndex">38</Property>
+      <Property name="TabStop">False</Property>
+      <Property name="Text">Access Chats</Property>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_AccessChats" children="Controls">
+        <Property name="BackColor">BlanchedAlmond</Property>
+        <Property name="BorderStyle">FixedSingle</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">6, 31</Property>
+        <Property name="Name">richtextbox_AccessChats</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">204, 45</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">$accesschats</Property>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupbox_Chats" children="Controls">
+      <Property name="AutoSizeMode">GrowAndShrink</Property>
+      <Property name="BackColor">Cornsilk</Property>
+      <Property name="BackgroundImageLayout">None</Property>
+      <Property name="Font">Microsoft Sans Serif, 18pt, style=Bold</Property>
+      <Property name="Location">2, 2</Property>
+      <Property name="Name">groupbox_Chats</Property>
+      <Property name="Size">287, 455</Property>
+      <Property name="TabIndex">36</Property>
+      <Property name="TabStop">False</Property>
+      <Property name="Text">Service Desk Chats</Property>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_Chat3" children="Controls">
+        <Property name="BackColor">Cornsilk</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">10, 129</Property>
+        <Property name="Name">richtextbox_Chat3</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">238, 42</Property>
+        <Property name="TabIndex">35</Property>
+        <Property name="Text">$chat3</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_ChatPhone" children="Controls">
+        <Property name="Anchor">Bottom, Left</Property>
+        <Property name="BackColor">PaleGoldenrod</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">10, 401</Property>
+        <Property name="Name">richtextbox_ChatPhone</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">238, 42</Property>
+        <Property name="TabIndex">31</Property>
+        <Property name="Text">$chatphone</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_LabelChatPhoneBackup" children="Controls">
+        <Property name="Anchor">Bottom, Left</Property>
+        <Property name="BackColor">PaleGoldenrod</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 18pt, style=Bold</Property>
+        <Property name="Location">10, 359</Property>
+        <Property name="Name">richtextbox_LabelChatPhoneBackup</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">238, 42</Property>
+        <Property name="TabIndex">30</Property>
+        <Property name="Text">Phone Backup:</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_Chat7" children="Controls">
+        <Property name="BackColor">Cornsilk</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">10, 313</Property>
+        <Property name="Name">richtextbox_Chat7</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">238, 42</Property>
+        <Property name="TabIndex">34</Property>
+        <Property name="Text">$chat7</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_Chat6" children="Controls">
+        <Property name="BackColor">Cornsilk</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">10, 267</Property>
+        <Property name="Name">richtextbox_Chat6</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">238, 42</Property>
+        <Property name="TabIndex">33</Property>
+        <Property name="Text">$chat6</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_Chat5" children="Controls">
+        <Property name="BackColor">Cornsilk</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">10, 221</Property>
+        <Property name="Name">richtextbox_Chat5</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">238, 42</Property>
+        <Property name="TabIndex">32</Property>
+        <Property name="Text">$chat5</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_Chat4" children="Controls">
+        <Property name="BackColor">Cornsilk</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">10, 175</Property>
+        <Property name="Name">richtextbox_Chat4</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">238, 42</Property>
+        <Property name="TabIndex">3</Property>
+        <Property name="Text">$chat4</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_Chat2" children="Controls">
+        <Property name="BackColor">Cornsilk</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">10, 83</Property>
+        <Property name="Name">richtextbox_Chat2</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">238, 42</Property>
+        <Property name="TabIndex">1</Property>
+        <Property name="Text">$chat2</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_Chat1" children="Controls">
+        <Property name="BackColor">Cornsilk</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Font">Microsoft Sans Serif, 20pt, style=Bold</Property>
+        <Property name="Location">10, 37</Property>
+        <Property name="Name">richtextbox_Chat1</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">238, 42</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">$chat1</Property>
+      </Object>
+    </Object>
+  </Object>
+  <Code><![CDATA[
+$form_Duties_Load={
+	#TODO: Initialize Form Controls here
+	
+}
+]]></Code>
+  <Mode>0</Mode>
+  <Assemblies>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+  </Assemblies>
+</File>

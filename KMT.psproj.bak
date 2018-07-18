@@ -1,0 +1,15 @@
+﻿<Project>
+  <Version>1.1</Version>
+  <FileID>a23b3db0-4fc5-47ae-97ab-6fe7caac9e55</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders>
+    <Folder>NewFolder1</Folder>
+  </Folders>
+  <Files>
+    <File ReferenceName="" Build="0">Startup.pss</File>
+    <File ReferenceName="Call-MainForm_psf" Build="0">MainForm.psf</File>
+    <File ReferenceName="Call-Global_ps1" Build="0" CommandExtension="True">Globals.ps1</File>
+    <File ReferenceName="Call-confirmforeman_psf" Build="0">confirmforeman.psf</File>
+    <File ReferenceName="Call-Edit_ADObject_psf" Build="0">Edit_ADObject.psf</File>
+  </Files>
+</Project>
