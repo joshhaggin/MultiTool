@@ -1,4 +1,4 @@
-﻿<File version="2.1">
+﻿<File version="3.1">
   <FileID>abe4b8bc-66b4-4597-824a-95c4dde53a1f</FileID>
   <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAOLbSURBVHhe7J0FnBXV+8Yv3R3S3dJYdEiKIEp3
@@ -1021,383 +1021,36 @@ QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAE
 QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAE
 QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAE
 QRAEQRAEQRAEQRAEQRAEQfh/wWD4P5p/yT+TqeBUAAAAAElFTkSuQmCC</Preview>
-  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="form_KSSContactsSettings" children="Controls">
-    <Property name="AutoScaleDimensions">6, 13</Property>
-    <Property name="AutoScaleMode">Font</Property>
-    <Property name="ClientSize">457, 262</Property>
-    <Property name="FormBorderStyle">FixedToolWindow</Property>
-    <Property name="MinimumSize">463, 29</Property>
-    <Property name="Name">form_KSSContactsSettings</Property>
-    <Property name="ShowInTaskbar">False</Property>
-    <Property name="StartPosition">CenterParent</Property>
-    <Property name="Text">KSS Contacts Settings</Property>
-    <Property name="TopMost">True</Property>
-    <Event name="Load">form_KSSContactsSettings_Load</Event>
-    <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_ContactSheetName" children="Controls">
-      <Property name="AutoSize">True</Property>
-      <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-      <Property name="Location">4, 15</Property>
-      <Property name="Name">label_ContactSheetName</Property>
-      <Property name="Size">114, 17</Property>
-      <Property name="TabIndex">1002</Property>
-      <Property name="Text">Contact Sheet name:</Property>
-      <Property name="UseCompatibleTextRendering">True</Property>
-    </Object>
-    <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="textbox_TabInTWSheet" children="Controls">
-      <Property name="Location">4, 39</Property>
-      <Property name="Name">textbox_TabInTWSheet</Property>
-      <Property name="Size">331, 20</Property>
-      <Property name="TabIndex">1001</Property>
-    </Object>
-    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="button_SaveAndClose" children="Controls">
-      <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-      <Property name="Location">340, 12</Property>
-      <Property name="Name">button_SaveAndClose</Property>
-      <Property name="Size">114, 47</Property>
-      <Property name="TabIndex">1003</Property>
-      <Property name="Text">Save and Close</Property>
-      <Property name="UseCompatibleTextRendering">True</Property>
-      <Property name="UseVisualStyleBackColor">True</Property>
-      <Event name="Click">button_SaveAndClose_Click</Event>
-    </Object>
-    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupbox3" children="Controls">
-      <Property name="Location">4, 65</Property>
-      <Property name="Name">groupbox3</Property>
-      <Property name="Size">450, 193</Property>
-      <Property name="TabIndex">130</Property>
-      <Property name="TabStop">False</Property>
-      <Property name="Text">KSS Contacts</Property>
-      <Property name="UseCompatibleTextRendering">True</Property>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelKSS6" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">271, 165</Property>
-        <Property name="Name">labelKSS6</Property>
-        <Property name="Size">47, 17</Property>
-        <Property name="TabIndex">322</Property>
-        <Property name="Text">KSS # 6</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Row6" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">389, 162</Property>
-        <Property name="Name">ContactNumber_Row6</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">326</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Column6" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">331, 162</Property>
-        <Property name="Name">ContactNumber_Column6</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">325</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Row6" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">197, 162</Property>
-        <Property name="Name">Contact_Row6</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">324</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelKSSContact6" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">10, 165</Property>
-        <Property name="Name">labelKSSContact6</Property>
-        <Property name="Size">81, 17</Property>
-        <Property name="TabIndex">321</Property>
-        <Property name="Text">KSS Contact 6</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Column6" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">139, 162</Property>
-        <Property name="Name">Contact_Column6</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">323</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_KSS5" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">271, 139</Property>
-        <Property name="Name">label_KSS5</Property>
-        <Property name="Size">47, 17</Property>
-        <Property name="TabIndex">133</Property>
-        <Property name="Text">KSS # 5</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_KSS4" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">271, 113</Property>
-        <Property name="Name">label_KSS4</Property>
-        <Property name="Size">47, 17</Property>
-        <Property name="TabIndex">132</Property>
-        <Property name="Text">KSS # 4</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_KSS3" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">271, 87</Property>
-        <Property name="Name">label_KSS3</Property>
-        <Property name="Size">47, 17</Property>
-        <Property name="TabIndex">131</Property>
-        <Property name="Text">KSS # 3</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_KSS2" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">271, 61</Property>
-        <Property name="Name">label_KSS2</Property>
-        <Property name="Size">47, 17</Property>
-        <Property name="TabIndex">130</Property>
-        <Property name="Text">KSS # 2</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_KSS1" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">271, 35</Property>
-        <Property name="Name">label_KSS1</Property>
-        <Property name="Size">47, 17</Property>
-        <Property name="TabIndex">129</Property>
-        <Property name="Text">KSS # 1</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Row5" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">389, 136</Property>
-        <Property name="Name">ContactNumber_Row5</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">320</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Column5" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">331, 136</Property>
-        <Property name="Name">ContactNumber_Column5</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">319</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Row4" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">389, 110</Property>
-        <Property name="Name">ContactNumber_Row4</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">316</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Column4" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">331, 110</Property>
-        <Property name="Name">ContactNumber_Column4</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">315</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Row3" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">389, 84</Property>
-        <Property name="Name">ContactNumber_Row3</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">312</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Column3" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">331, 84</Property>
-        <Property name="Name">ContactNumber_Column3</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">311</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Row2" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">389, 58</Property>
-        <Property name="Name">ContactNumber_Row2</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">308</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Column2" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">331, 58</Property>
-        <Property name="Name">ContactNumber_Column2</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">307</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Row1" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">389, 32</Property>
-        <Property name="Name">ContactNumber_Row1</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">304</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelRow" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">396, 16</Property>
-        <Property name="Name">labelRow</Property>
-        <Property name="Size">28, 17</Property>
-        <Property name="TabIndex">120</Property>
-        <Property name="Text">Row</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="ContactNumber_Column1" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">331, 32</Property>
-        <Property name="Name">ContactNumber_Column1</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">303</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelColumn" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">331, 16</Property>
-        <Property name="Name">labelColumn</Property>
-        <Property name="Size">45, 17</Property>
-        <Property name="TabIndex">122</Property>
-        <Property name="Text">Column</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Row5" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">197, 136</Property>
-        <Property name="Name">Contact_Row5</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">318</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_KSSContact5" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">10, 139</Property>
-        <Property name="Name">label_KSSContact5</Property>
-        <Property name="Size">81, 17</Property>
-        <Property name="TabIndex">116</Property>
-        <Property name="Text">KSS Contact 5</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Column5" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">139, 136</Property>
-        <Property name="Name">Contact_Column5</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">317</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Row4" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">197, 110</Property>
-        <Property name="Name">Contact_Row4</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">314</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_KSSContact4" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">10, 113</Property>
-        <Property name="Name">label_KSSContact4</Property>
-        <Property name="Size">81, 17</Property>
-        <Property name="TabIndex">113</Property>
-        <Property name="Text">KSS Contact 4</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Column4" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">139, 110</Property>
-        <Property name="Name">Contact_Column4</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">313</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Row3" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">197, 84</Property>
-        <Property name="Name">Contact_Row3</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">310</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_KSSContact3" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">10, 87</Property>
-        <Property name="Name">label_KSSContact3</Property>
-        <Property name="Size">81, 17</Property>
-        <Property name="TabIndex">110</Property>
-        <Property name="Text">KSS Contact 3</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Column3" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">139, 84</Property>
-        <Property name="Name">Contact_Column3</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">309</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Row2" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">197, 58</Property>
-        <Property name="Name">Contact_Row2</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">306</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_KSSContact2" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">10, 61</Property>
-        <Property name="Name">label_KSSContact2</Property>
-        <Property name="Size">81, 17</Property>
-        <Property name="TabIndex">107</Property>
-        <Property name="Text">KSS Contact 2</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Column2" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">139, 58</Property>
-        <Property name="Name">Contact_Column2</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">305</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Row1" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">197, 32</Property>
-        <Property name="Name">Contact_Row1</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">302</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label14" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">204, 16</Property>
-        <Property name="Name">label14</Property>
-        <Property name="Size">28, 17</Property>
-        <Property name="TabIndex">103</Property>
-        <Property name="Text">Row</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_KSSContact1" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">10, 35</Property>
-        <Property name="Name">label_KSSContact1</Property>
-        <Property name="Size">81, 17</Property>
-        <Property name="TabIndex">102</Property>
-        <Property name="Text">KSS Contact 1</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Contact_Column1" children="Controls">
-        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-        <Property name="Location">139, 32</Property>
-        <Property name="Name">Contact_Column1</Property>
-        <Property name="Size">49, 20</Property>
-        <Property name="TabIndex">301</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label13" children="Controls">
-        <Property name="AutoSize">True</Property>
-        <Property name="Font">Microsoft Sans Serif, 8.25pt, style=Bold</Property>
-        <Property name="Location">139, 16</Property>
-        <Property name="Name">label13</Property>
-        <Property name="Size">45, 17</Property>
-        <Property name="TabIndex">104</Property>
-        <Property name="Text">Column</Property>
-        <Property name="UseCompatibleTextRendering">True</Property>
-      </Object>
-    </Object>
-  </Object>
+  <Form>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
+aqU7vfr1xS/Ff+Pxf8jqe5pcYwAA</Form>
   <Code><![CDATA[
 $form_KSSContactsSettings_Load={
 	#TODO: Initialize Form Controls here
@@ -1455,7 +1108,7 @@ $button_SaveAndClose_Click={
 	
 	$inicontent = @{ "Worksheet" = $worksheet; "KSSContact1" = $KSSContact1; "KSSContact2" = $KSSContact2; "KSSContact3" = $KSSContact3; "KSSContact4" = $KSSContact4; "KSSContact5" = $KSSContact5; "KSSContact6" = $KSSContact6; "KSSNum1" = $KSSNum1; "KSSNum2" = $KSSNum2; "KSSNum3" = $KSSNum3; "KSSNum4" = $KSSNum4; "KSSNum5" = $KSSNum5; "KSSNum6" = $KSSNum6  }
 	
-	Out-IniFile -FilePath $KSSContacts_configini -InputObject $KSSContacts_configini -Force
+	Out-IniFile -FilePath $KSSContacts_configini -InputObject $KSSContacts_configini -append -Force
 	$form_KSSContactsSettings.close()
 	
 	#-----------------------------
@@ -1468,7 +1121,7 @@ $button_SaveAndClose_Click={
 	Log-Write -LogPath $logusagefile -LineValue "$date, $time, $userName, $pcname, Updating Contact location info from spreadsheet"
 }
 ]]></Code>
-  <Mode>1</Mode>
+  <Mode>0</Mode>
   <Assemblies>
     <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
     <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>

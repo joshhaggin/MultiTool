@@ -1,5 +1,5 @@
 ﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.psxml;*.psf;*.pss;*.xml">
-  <Version>2.0</Version>
+  <Version>2.1</Version>
   <FileID>a23b3db0-4fc5-47ae-97ab-6fe7caac9e55</FileID>
   <ProjectType>0</ProjectType>
   <Folders />
@@ -14,8 +14,8 @@
     <File Build="2">K:\kss_team\Apps\Powershell Tools\KSS MultiTool\lib\config.ini</File>
     <File Build="0" Shared="False" ReferenceFunction="Invoke-TW_ps1">TW.ps1</File>
     <File Build="0" ReferenceFunction="Show-ContactsSettings_psf">ContactsSettings.psf</File>
-    <File Build="0" ReferenceFunction="Show-FS_DutySettings_psf">FS_DutySettings.psf</File>
     <File Build="0" ReferenceFunction="Show-SDLunchBuddy_psf">SDLunchBuddy.psf</File>
     <File Build="0" ReferenceFunction="Show-MassEditGroups4user_psf">MassEditGroups4user.psf</File>
+    <File Build="0" ReferenceFunction="Show-Launcher_EditLinks_psf">Launcher_EditLinks.psf</File>
   </Files>
 </Project>
